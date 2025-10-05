@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmat Issa Annadif 👋
 
-<!--
-**AhmatIssaAnnadif/AhmatIssaAnnadif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently in my third year of software engineering, student from Chad, currently studying in Turkey.  
+Passionate about **web & mobile development**, **AI**, and Technological Innovation.
+## 🛠️ Skills
+- **Languages & Frameworks:** HTML, CSS, JavaScript, C, React.js, Php, FlutterFlow, OOP  
+- **Databases:** Oracle SQL, Firebase ,MySQL 
+- **Tools:** Git, GitHub, Firebase Storage
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [Burger-Restaurant-Website] - Online burger ordering platform with a powerful admin panel.
+- [Quiz-Project] - Web application for creating and taking dynamic quizzes.
+- [Travel-Website] - Responsive website showcasing travel destinations and itineraries.
+- [Snake-Game] - Classic Snake game implemented with JavaScript.
+- [Best-Actress-Website] - Portfolio-style site showcasing top actresses.
+- [Form] - Web form project with dynamic validation and responsive design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ahmat-issa-annadif-ab12a4290/)
+
