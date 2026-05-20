@@ -7,7 +7,8 @@ Passionate about **web & mobile development**, **AI**, and Technological Innovat
 - **Frameworks & Technologies:** React.js, FlutterFlow, Firebase, OOP, node.js 
 - **Databases:** Oracle SQL, Firebase ,MySQL 
 - **Tools:** Git, GitHub, Firebase Storage
-- **Data Science & Machine Learning :** NumPy  
+- **Data Science & Machine Learning :**
+ NumPy  
  Pandas  
  Matplotlib  
  Seaborn  
