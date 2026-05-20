@@ -7,17 +7,7 @@ Passionate about **web & mobile development**, **AI**, and Technological Innovat
 - **Frameworks & Technologies:** React.js, FlutterFlow, Firebase, OOP, node.js 
 - **Databases:** Oracle SQL, Firebase ,MySQL 
 - **Tools:** Git, GitHub, Firebase Storage
-- **Data Science & Machine Learning :**
- NumPy  
- Pandas  
- Matplotlib  
- Seaborn  
- Scikit-learn  
- TensorFlow  
- Keras
- OLOv8  
- Computer Vision  
- OpenCV  
+- **Data Science & Machine Learning :**NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, YOLOv8, Computer Vision, OpenCV  
 ## Currently Learning
 - Advanced Python Programming  
 - Data Analysis & Visualization  
