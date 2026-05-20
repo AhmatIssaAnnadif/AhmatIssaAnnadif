@@ -3,10 +3,26 @@
 Currently in my third year of software engineering, student from Chad, currently studying in Turkey.  
 Passionate about **web & mobile development**, **AI**, and Technological Innovation.
 ## 🛠️ Skills
-- **Languages & Frameworks:** HTML, CSS, JavaScript, C, React.js, Php, FlutterFlow, OOP  
+- **Programming Languages:** HTML, CSS, JavaScript, C, PHP, Python
+- **Frameworks & Technologies:** React.js, FlutterFlow, Firebase, OOP, node.js 
 - **Databases:** Oracle SQL, Firebase ,MySQL 
 - **Tools:** Git, GitHub, Firebase Storage
-
+- **Data Science & Machine Learning :** 
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- TensorFlow  
+- Keras
+- OLOv8  
+- Computer Vision  
+- OpenCV  
+## Currently Learning
+- Advanced Python Programming  
+- Data Analysis & Visualization  
+- Machine Learning Algorithms  
+- Deep Learning & AI Applications  
 ## 📂 Featured Projects
 - [Burger-Restaurant-Website] - Online burger ordering platform with a powerful admin panel.
 - [Quiz-Project] - Web application for creating and taking dynamic quizzes.
