@@ -3,11 +3,11 @@
 Currently in my third year of software engineering, student from Chad, currently studying in Turkey.  
 Passionate about **web & mobile development**, **AI**, and Technological Innovation.
 ## Skills
-**Programming Languages:** HTML, CSS, JavaScript, C, PHP, Python
-**Frameworks & Technologies:** React.js, FlutterFlow, Firebase, OOP, node.js 
-**Databases:** Oracle SQL, Firebase ,MySQL 
-**Tools:** Git, GitHub, Firebase Storage
-**Data Science & Machine Learning :** 
+###**Programming Languages:** HTML, CSS, JavaScript, C, PHP, Python
+###**Frameworks & Technologies:** React.js, FlutterFlow, Firebase, OOP, node.js 
+###**Databases:** Oracle SQL, Firebase ,MySQL 
+###**Tools:** Git, GitHub, Firebase Storage
+###**Data Science & Machine Learning :** 
 - NumPy  
 - Pandas  
 - Matplotlib  
